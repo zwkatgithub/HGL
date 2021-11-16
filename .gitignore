@@ -1,0 +1,12 @@
+/models
+.vscode
+.ipynb_checkpoints
+**/__pycache__
+mil_denosing.tar.gz
+/generate_np
+/train
+/train_nam
+/train_
+/train_np
+/conll2003
+/commit
